@@ -1,5 +1,5 @@
-(null,null)       // land
-(null,null)       // earth
-(null,null)       // Water
-(null,null)       // Rust
-(null,null)       // wqq
+(c,b)       // land
+(e,b)       // earth
+(g,b)       // Water
+(d,c)       // Rust
+(f,e)       // wqq
