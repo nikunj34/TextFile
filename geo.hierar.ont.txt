@@ -6,4 +6,5 @@
 (d,c)       // river
 (f,c)       // mountain
 (g,c)       // lake
+(i,c)       // integer
 (j,h)       // wqq
