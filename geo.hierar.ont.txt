@@ -1,4 +1,5 @@
 (c,e)       // location
+(i,e)       // integer
 (h,e)       // earth
 (k,e)       // Water
 (a,c)       // state
@@ -6,5 +7,4 @@
 (d,c)       // river
 (f,c)       // mountain
 (g,c)       // lake
-(i,c)       // integer
 (j,h)       // wqq
